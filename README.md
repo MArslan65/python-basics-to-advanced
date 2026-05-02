@@ -21,16 +21,17 @@ Essential commands used to manage the environments for these projects.
 ### 🟢 Phase 1: Basics of Python
 *Foundational concepts and syntax.*
 * **Folder:** `01_Basics_of_Python`
+* **Folder:** `02_Basics_of_Python`
 * **Content:** Variable types, String manipulation, Integers, and Basic I/O.
 
 ### 🟡 Phase 2: Intermediate Python
 *Focus on data structures and logic.*
-* **Folder:** `02_Intermediate_Python`
+* **Folder:** `03_Intermediate_Python`
 * **Content:** Advanced Variable usage, Lists, Dictionaries, and Logic Flow.
 
 ### 🔵 Phase 3: Python Libraries
 *Data science and utility libraries.*
-* **Folder:** `03_Libraries`
+* **Folder:** `04_Libraries`
 * **Content:** Deep dives into NumPy for math and Pandas for data manipulation.
 
 ---
