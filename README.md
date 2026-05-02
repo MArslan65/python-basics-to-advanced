@@ -44,5 +44,5 @@ Essential commands used to manage the environments for these projects.
 ---
 
 ## 👤 Author
-**Your Name**
+**Muhammad Arslan**
 [GitHub Profile](https://github.com/MArslan65) | [LinkedIn](https://www.linkedin.com/in/marslan65/)
